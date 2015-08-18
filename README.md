@@ -1,14 +1,7 @@
-# CrateTrader
-Buying gear/weapon crates from an A.I. unit within spawn zones on Altis
-
-
-
-
-
 Feel free to use and to modify this work but please don`t remove the credits. Thank you.
 
 
-By adding these files to your server in each spawn zone(East/Central/West) on Altis there will be an A.I. unit. This A.I. offers medical treatment and from this A.I. you can buy crates whith different loadouts. 
+By adding these files to your server in each spawn zone (East/Central/West) on Altis there will be an A.I. unit. This A.I. offers medical treatment and from this A.I. you can buy crates with different loadouts. 
 
 Once purchased the crate will spawn in front of you. You can buy as many crates as you want as long you have enough Krypto.
 
