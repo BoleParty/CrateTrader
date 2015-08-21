@@ -19,17 +19,14 @@ class Mission
 		"A3_epoch_config",
 		"a3_characters_f",
 		"A3_Data_F_Curator_Virtual",
-		"A3_Characters_F_EPC",
-		"A3_Data_F_Curator_Characters",
-		"A3_Characters_F_Kart"
+		"A3_Characters_F_EPC"
 	};
 	addOnsAuto[]=
 	{
 		"a3_epoch_config",
-		"A3_Characters_F_Kart",
+		"A3_Characters_F_Civil",
 		"a3_characters_f",
 		"A3_Characters_F_EPC",
-		"A3_Characters_F_Civil",
 		"a3_map_altis"
 	};
 	randomSeed=12032465;
@@ -2064,7 +2061,7 @@ class Mission
 				items=1;
 				class Item0
 				{
-					position[]={13336.438,2.1717005,14513.28};
+					position[]={13336.438,2.1716955,14513.28};
 					azimut=345;
 					id=100;
 					side="CIV";
@@ -2119,7 +2116,7 @@ class Mission
 	};
 	class Markers
 	{
-		items=3;
+		items=4;
 		class Item0
 		{
 			position[]={14939.9,0.053499099,15083.3};
@@ -2136,6 +2133,12 @@ class Mission
 		{
 			position[]={23600.6,3.1900001,18000.801};
 			name="respawn_west";
+			type="Empty";
+		};
+		class Item3
+		{
+			position[]={14939.9,0.0023547951,15083.3};
+			name="center_1";
 			type="Empty";
 		};
 	};
